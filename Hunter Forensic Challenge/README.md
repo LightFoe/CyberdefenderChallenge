@@ -5,6 +5,8 @@ It was really fun and interesting. I've learn lots of things about a windows mac
 But most important one : **try harder to get what you need.**
 
 **Tool I've used**
+* AccessData FTK Imager
+* DB browser for SQLlite
 * Autopsy
 * Registry Explorer
 * JumpList Explorer
