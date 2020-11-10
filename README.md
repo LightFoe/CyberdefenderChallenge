@@ -1,4 +1,4 @@
-# cyberdefenderChallenge
+# CyberdefenderChallenge
 
 Here are some notes written while solving the challenge :
 
