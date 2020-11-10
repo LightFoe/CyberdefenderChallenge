@@ -13,3 +13,4 @@ But most important one : **try harder to get what you need.**
 * RegRipper
 
 pdf note :point_right: [click here](./Image_Forensics.pdf)
+(note : figure 4.2 is only indicating where the information requested is, the hunter information it can be seen in 4.1)
