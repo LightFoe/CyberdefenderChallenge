@@ -12,4 +12,4 @@ But most important one : **try harder to get what you need.**
 * JumpList Explorer
 * RegRipper
 
-pdf notes :point_right: [click here](./Image_Forensics.pdf)
+pdf note :point_right: [click here](./Image_Forensics.pdf)
