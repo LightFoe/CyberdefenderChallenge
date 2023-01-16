@@ -8,4 +8,4 @@ As things remain the same, for memory analysis I'll run two instances of volatil
 * Volatility2.6
 * Some basic linux commands :>
 
-pdf note :point_right: [click here](./DumpMe_Forensics.pdf)
+pdf note :point_right: [click here](./Cyberdefender_challenge_DumpMe.pdf)
